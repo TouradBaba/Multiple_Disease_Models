@@ -1,5 +1,8 @@
 # Multiple Disease Models
 
+![Multiple Disease Models](app_screenshot.png)
+
+
 This repository contains machine learning models for predicting various health conditions, including diabetes, heart disease, and Parkinson's disease. Additionally, it includes a Streamlit web application that allows users to interact with these models through a user-friendly interface.
 
 ## Models Included:
@@ -36,4 +39,4 @@ This repository contains machine learning models for predicting various health c
    streamlit run app.py
    ```
 
-5. Access the web application in your browser.
+5. Access the application in your browser.
