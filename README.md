@@ -21,10 +21,10 @@ This repository contains machine learning models for predicting various health c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TouradBaba/Health_Prediction_Models.git
+   git clone https://github.com/TouradBaba/Multiple_Disease_Models.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the directory:
    ```bash
    cd Multiple_Disease_Models
    ```
